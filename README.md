@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis of 911 Calls using Python
 -----------
-In this project ,analysis of some 911 call data from [Kaggle](https://www.kaggle.com) is done. The data contains the following fields:
+In this project ,analysis of some 911 calls data from [Kaggle](https://www.kaggle.com) is done. The data contains the following fields:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude
@@ -24,7 +24,6 @@ This project is an exploratory data analysis of 911 calls from made in Montgomer
 ### DATASETS
 
 The data for this analysis is retrieved from kaggle .The csv file is attached along with the analysis.
-    
- You can find the datasets [HERE](https://www.kaggle.com/mchirico/montcoalert)
+You can find the datasets [HERE](https://www.kaggle.com/mchirico/montcoalert)
         
         
